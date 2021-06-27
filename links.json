@@ -1,0 +1,14 @@
+{
+    "education": {
+        "wikipedia": "https://wikipedia.org",
+        "khan academy": "https://www.khanacademy.org"
+    },
+    "social": {
+        "facebook": "https://facebook.com",
+        "reddit": "https://reddit.com",
+        "twitter": "https://twitter.com",
+        "linkedin": "https://linkedin.com"
+    },
+    "github": "https://github.com",
+    "stack overflow": "https://stackoverflow.com"
+}
