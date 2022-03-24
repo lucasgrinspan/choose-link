@@ -2,6 +2,8 @@
 
 This tiny script shows a spotlight-esque fuzzy matcher ([choose](https://github.com/chipsenkbeil/choose)) to open a link. It supports a flat list or a list with nestable categories. Check `links.json` for an example of the data structure.
 
+<img width="918" alt="image" src="https://user-images.githubusercontent.com/32201603/159836677-33dacf4b-a514-46ed-b2e0-4a4f0f5f392f.png">
+
 ## Installation
 
 Python and homebrew are required to install and use this utility. After cloning this repo, run these commands:
